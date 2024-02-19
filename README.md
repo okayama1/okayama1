@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Patricia Menéndez a Senior Lecturer (Assistant Professor)in Statistics/Business Analytics at Monash University
-- My background is maths and stats.
+-  👋 Hi, I’m Patricia Menéndez a Senior Lecturer in Statistics/Data Science in the School of Mathematics and Statistics at The University of Melbourne (Australia)
+-  My background is maths and stats.
 -  I’m interested in learning something new every day!
 
 
